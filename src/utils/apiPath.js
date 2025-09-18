@@ -1,4 +1,4 @@
-export const BASE_URL = "";
+export const BASE_URL = "https://funny.com";
 
 // utils/apiPaths.js
 export const API_PATHS = {
